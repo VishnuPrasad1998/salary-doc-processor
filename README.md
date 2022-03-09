@@ -24,6 +24,7 @@ pip install -r requirements.txt
 python manage.py run
 ```
 8. Open postman and hit the URL with POST request, request body is of file type.
+ ```
    http://0.0.0.0:5000/pdf/v1/parse-data
    Request body in form-data:
    document_pdf(File): pay-slip.pdf
@@ -47,6 +48,10 @@ python manage.py run
         "_id": "6228d102679b281883dea1f7"
     },
     "message": "PDF details extracted and saved in DB"
-  }
-   
- 9. You can see the data in mongodb atlas
+   }
+  ```
+ 9. You can see the data in mongodb atlast
+
+To see some snapshots click here 
+[Image1](https://ibb.co/fYQt7hp) 
+[Image2](https://ibb.co/R267hnL)
