@@ -53,5 +53,5 @@ python manage.py run
  9. You can see the data in mongodb atlast
 
 To see some snapshots click here 
-[Image1](https://ibb.co/fYQt7hp) 
-[Image2](https://ibb.co/R267hnL)
+[Image1](https://imgbb.com/fYQt7hp) 
+[Image2](https://imgbb.com/R267hnL)
